@@ -1,0 +1,11 @@
+framework module CordovaTestFramework {
+  umbrella header "CordovaTestFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module CordovaTestFramework.Swift {
+    header "CordovaTestFramework-Swift.h"
+    requires objc
+}

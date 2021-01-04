@@ -1,0 +1,25 @@
+{
+  "name": "com.example.samplePlugin",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "com.example.samplePlugin",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hyeonlee12/CordovaSwiftPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Hyeyeon Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hyeonlee12/CordovaSwiftPlugin/issues"
+  },
+  "homepage": "https://github.com/Hyeonlee12/CordovaSwiftPlugin#readme"
+}
